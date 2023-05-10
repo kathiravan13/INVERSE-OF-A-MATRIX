@@ -23,7 +23,7 @@ print(inverse)
 ```
 ## Output:
 
-
+C:\Users\MONICA\Pictures\Screenshots\Screenshot (5).png
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
